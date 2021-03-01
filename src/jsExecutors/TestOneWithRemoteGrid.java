@@ -21,11 +21,11 @@ public class TestOneWithRemoteGrid {
 
 	public static void main(String[] args) {
 	
-		new TestOneWithRemoteGrid().googleSearch();
+		new TestOneWithRemoteGrid().login();
 
 	}
 	
-	public void googleSearch() {
+	public void login() {
 		
 		setUp();	
 		

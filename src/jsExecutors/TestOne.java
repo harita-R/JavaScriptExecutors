@@ -12,11 +12,11 @@ public class TestOne {
 		
 		System.setProperty("webdriver.chrome.driver", "E:/Selenium/chromedriver.exe");
 		
-		TestOne.googleSearch();
+		TestOne.login();
 
 	}
 	
-	public static void googleSearch() {
+	public static void login() {
 		
 		     WebDriver driver= new ChromeDriver();		
   		
